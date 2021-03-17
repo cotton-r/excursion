@@ -37,3 +37,6 @@ p {
 
 /* footer */
 
+.footer {
+    text-align: right;
+}
